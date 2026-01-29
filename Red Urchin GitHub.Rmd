@@ -1,0 +1,10 @@
+---
+title: "Red Urchin GSI GitHub"
+author: "Sophia Cabral"
+date: "2026-01-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
