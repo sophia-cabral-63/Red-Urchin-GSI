@@ -11,3 +11,4 @@ Sophia created this repository for her independent research project as a C.A.M.P
 
 # Data
 - The dataset notes GSI, study site, collection date, sex (if the urchin spawned), test diameter, individual wet weight, gonad wet weight, and total gonad protein concentration for each individual. 10 individuals collected per site and month.
+- Dataset (.csv file) currently not available to the public
