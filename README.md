@@ -10,4 +10,4 @@ Visualization of red sea urchin GSIs (Gonadosomatic Indices) from two study site
 Sophia created this repository for her independent research project as a C.A.M.P. scholar, project associated with Erin de Leon Sanchez's PhD dissertation at UC Santa Barbara.
 
 # Data
-- The dataset notes GSI, study site, collection date, sex (if the urchin spawned), and total gonad protein concentration for each individual. 10 individuals collected per site and month.
+- The dataset notes GSI, study site, collection date, sex (if the urchin spawned), test diameter, individual wet weight, gonad wet weight, and total gonad protein concentration for each individual. 10 individuals collected per site and month.
